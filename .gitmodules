@@ -1,0 +1,6 @@
+[submodule "HTTPEchoLib"]
+	path = HTTPEchoLib
+	url = https://github.com/derickvh/HTTPEchoLib
+[submodule "HTTPEchoLibJava"]
+	path = HTTPEchoLibJava
+	url = https://github.com/derickvh/HTTPEchoLibJava
