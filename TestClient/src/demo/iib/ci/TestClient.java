@@ -14,8 +14,8 @@ public class TestClient {
 
 		System.out.println("-------------------------------");
 
-		testHTTP(new URL("http://localhost:7800/HTTPESQLTest"), req);
-		testHTTP(new URL("http://localhost:7800/HTTPJavaTest"), req);
+		testHTTP(new URL("http://localhost:7801/HTTPESQLTest"), req);
+		testHTTP(new URL("http://localhost:7801/HTTPJavaTest"), req);
 	}
 	private static void testHTTP(final URL url, final String s) throws IOException {
 
